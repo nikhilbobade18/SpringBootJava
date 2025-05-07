@@ -1,0 +1,7 @@
+2025-05-07 16:47:56,733 [RMI TCP Connection(3)-192.168.0.101] INFO  DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-05-07 16:47:56,788 [RMI TCP Connection(3)-192.168.0.101] INFO  DispatcherServlet - Completed initialization in 3 ms
+2025-05-07 16:48:28,773 [http-nio-7074-exec-6] INFO  CustomerController - Starting customer process
+2025-05-07 16:48:28,773 [http-nio-7074-exec-6] WARN  CustomerController - Warning: possible issue detected
+2025-05-07 16:49:34,652 [SpringApplicationShutdownHook] INFO  LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-05-07 16:49:34,656 [SpringApplicationShutdownHook] INFO  HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-05-07 16:49:34,663 [SpringApplicationShutdownHook] INFO  HikariDataSource - HikariPool-1 - Shutdown completed.
